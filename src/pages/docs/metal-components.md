@@ -13,7 +13,7 @@ weight: 4
 One of the benefits of `electric` is the ability to create metal.js components
 and invoke them in your `soy` layouts and pages.
 
-Components should be placed in the the `src/partials` directory.
+Components should be placed in the `src/partials` directory.
 
 ```text/javascript
 .
